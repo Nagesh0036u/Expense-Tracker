@@ -65,7 +65,4 @@ Responsive Web Design
 
 👩‍💻 Author
 
-Likitha BN
-
-BE Data Science Student
-Aditya College of Engineering and Technology
+Nagesh R
